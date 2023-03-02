@@ -1,0 +1,4 @@
+date
+cal
+who
+whoami
